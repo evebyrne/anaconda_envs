@@ -1,0 +1,5 @@
+name: flask
+channels:
+  - defaults
+prefix: /home/eve/anaconda2/envs/flask
+
